@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/practicefusion/ember-background-update.svg)](https://travis-ci.org/practicefusion/ember-background-update)
+
 # Ember-background-updates
 
 This README outlines the details of collaborating on this Ember addon.
